@@ -22,7 +22,7 @@
 
 # Fuente:
 
-- [![50 days 50 proyects](https://github.com/bradtraversy/50projects50days/tree/master/expanding-cards)](https://github.com/bradtraversy/50projects50days/tree/master/expanding-cards)
+- [![50 days 50 proyects]](https://github.com/bradtraversy/50projects50days/tree/master/expanding-cards)
 
 # Modificaciones:
 
